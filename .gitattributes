@@ -1,0 +1,4 @@
+data/SlipMutations_FinalDoms.csv filter=lfs diff=lfs merge=lfs -text
+data/SlipMutations_FinalDoms__DUPvSCRAM.csv filter=lfs diff=lfs merge=lfs -text
+data/extra_runs_lineage_score_ts.csv filter=lfs diff=lfs merge=lfs -text
+data/lineage_score_ts__FANCY.csv filter=lfs diff=lfs merge=lfs -text
